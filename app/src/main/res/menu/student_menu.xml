@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_student"
+        android:title="Add Student"
+        />
+<item
+        android:id="@+id/calendar"
+        android:title="Change Date"
+        />
+    <item
+        android:id="@+id/Attendancesheet"
+        android:title="Attendance Sheet"
+        />
+    <item
+        android:id="@+id/save_status"
+        android:title="Save Attendance"
+        />
+
+
+</menu>
