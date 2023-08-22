@@ -69,13 +69,8 @@ public class student_activity extends AppCompatActivity {
         subjectname = intent.getStringExtra("subject");
         position = intent.getIntExtra("position", -1);
         cid1 = intent.getLongExtra("cid", -2);
-
         settoolbar();
         loadData();
-
-
-
-
     }
 
 
